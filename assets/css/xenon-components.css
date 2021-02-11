@@ -6492,8 +6492,8 @@ button.toast-close-button {
 .xe-widget.xe-conversations .xe-body .xe-comment-entry .xe-comment {
     display: table-cell;
     vertical-align: top;
-    padding-top: 10px;
-    padding-bottom: 10px
+    padding-top: 20px;
+    padding-bottom: 20px
 }
 
 .xe-widget.xe-conversations .xe-body .xe-comment-entry .xe-user-img img {
